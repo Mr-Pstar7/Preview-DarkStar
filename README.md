@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/stars/Preview-DarkStar)
 ![](https://img.shields.io/github/last-commit/Preview-DarkStar)
 [![HitCount](http://hits.dwyl.com/Preview-DarkStar.svg)](http://hits.dwyl.com/Preview-DarkStar)
-![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20Windows)
+![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20Windows-blue)
 
 >THIS TOOLS WERE COMPILED AND DEVELOPED BY MR PSTAR7. IF YOU WANT IT, YOU CAN CONTACT ME 
 
