@@ -12,7 +12,7 @@
 >THIS TOOLS WERE COMPILED AND DEVELOPED BY MR PSTAR7. IF YOU WANT IT, YOU CAN CONTACT ME 
 
 ### Execution
-    python main.py
+    python DarkStar.py
 
 ### Support
 - Kali Linux/Net Hunter
