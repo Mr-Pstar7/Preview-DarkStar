@@ -19,6 +19,11 @@
 - Windows
 - Termux
 
+### Screenshot 
+<img src="https://i.ibb.co.com/sWqD8fK/IMG-20240624-WA0040.jpg" alt="DarkStar">
+<img src="https://i.ibb.co.com/3yMxhZ4/IMG-20240624-WA0039.jpg" alt="Layer7 DDOS">
+<img src="https://i.ibb.co.com/G9nhqMr/IMG-20240624-WA0038.jpg" alt="Layer4 DDOS">
+
 ### Features
 - Layer7 DDOS (20 Methods)
 - Layer4 DDOS (12 Methods)
