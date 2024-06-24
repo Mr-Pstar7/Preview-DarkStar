@@ -5,9 +5,9 @@
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/forks/Preview-DarkStar)
 ![](https://img.shields.io/github/stars/Preview-DarkStar)
-![](https://img.shields.io/github/last-commit/Preview-DarkStar
+![](https://img.shields.io/github/last-commit/Preview-DarkStar)
 [![HitCount](http://hits.dwyl.com/Preview-DarkStar.svg)](http://hits.dwyl.com/Preview-DarkStar)
-![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
+![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20Windows)
 
 ### Execution
     python main.py
