@@ -30,6 +30,7 @@
 - Trojan Maker
 - Bruteforce Instagram
 - Spam WhatsApp
+- Domain Grabber
 - Report Instagram
 - SQL Vulnerability Scanner
 - Dox Tracker
@@ -50,7 +51,7 @@
 - Script Deface Generator
 - YouTube Downloader
 - Email Search
-- Encrypt & Decrypt Text
+- Hash Cracker
 - Spam Ripper Undangan Apk
 - Get Source Code Website
 - Cpanel Bruteforce
