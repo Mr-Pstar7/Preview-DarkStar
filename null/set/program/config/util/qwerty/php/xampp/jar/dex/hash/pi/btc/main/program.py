@@ -53,7 +53,7 @@ def sjusgsbdndjsjhensksskksns________ksjehsjskososokHCXXGajjwjwjwjwejjejekekekwp
 {O}║{M}  [{P}04{M}] ->{P} SQL Vulnerability Scanner {O}  ║{M}  [{P}24{M}] ->{P} Dir Buster                 {O} ║
 {O}║ {M} [{P}05{M}] ->{P} Bruteforce Instagram       {O} ║ {M} [{P}25{M}] -> {P}Script Deface Generator {O}    ║
 {O}║  {M}[{P}06{M}] -> {P}Spam WhatsApp               {O}║ {M} [{P}26{M}] ->{P} YouTube Downloader          {O}║
-{O}║ {M} [{P}07{M}] ->{P} Report Instagram          {O}  ║ {M} [{P}27{M}] -> {P}Encrypt & Decrypt Teks     {O} ║
+{O}║ {M} [{P}07{M}] ->{P} Report Instagram          {O}  ║ {M} [{P}27{M}] -> {P}Hash Cracker               {O} ║
 {O}║  {M}[{P}08{M}] ->{P} Dox Tracker (OSINT)         {O}║  {M}[{P}28{M}] ->{P} Email Search              {O}  ║
 {O}║{M}  [{P}09{M}] ->{P} Dox Create                  {O}║ {M} [{P}29{M}] -> {P}Spam Bot Telegram           {O}║
 {O}║{M}  [{P}10{M}] -> {P}Subdomain Finder            {O}║  {M}[{P}30{M}] -> {P}Get Source Code Website  {O}   ║
@@ -63,7 +63,7 @@ def sjusgsbdndjsjhensksskksns________ksjehsjskososokHCXXGajjwjwjwjwejjejekekekwp
 {O}║ {M} [{P}14{M}] -> {P}Track IP                    {O}║  {M}[{P}34{M}] -> {P}Admin Login Page Finder{O}     ║
 {O}║ {M} [{P}15{M}] ->{P} Get Ip Website              {O}║ {M} [{P}35{M}] -> {P}Crack Wifi All Password    {O} ║
 {O}║ {M} [{P}16{M}] ->{P} Ip Port Scanner             {O}║  {M}[{P}36{M}] -> {P}Bruteforce Facebook Premium{O} ║
-{O}║ {M} [{P}17{M}] ->{P} Spam WhatsApp  V2           {O}║  {M}[{P}37{M}] -> {P}Email Scraper               {O}║
+{O}║ {M} [{P}17{M}] ->{P} Damin Grabber               {O}║  {M}[{P}37{M}] -> {P}Email Scraper               {O}║
 {O}║  {M}[{P}18{M}] -> {P}WordPress Bruteforce     {O}   ║{M}  [{P}38{M}] ->{P} Database Leaker V2          {O}║
 {O}║  {M}[{P}19{M}] -> {P}Python Obfuscation          {O}║  {M}[{P}39{M}] -> {P}Webshell Finder          {O}   ║
 {O}║ {M} [{P}20{M}] -> {P}Search In DataBase          {O}║ {M} [{P}40{M}] -> {P}Malware Generator          {O} ║
